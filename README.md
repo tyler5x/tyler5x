@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tyler5x
-- 👀 I’m interested in robotics, computer vision, and bio-inspired mechanical design. 
-- 🌱 I’m taking classes on computational photography, mechatronics, and robot dynamics & control.
+- 👀 I’m interested in computer vision and 3D robot perception. 
+- 🌱 I’m currently taking classes on computer vision, mobile robotics, and robot dynamics & control.
 - 📫 Feel free to reach out via [email](mailto:tylersmithline@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 <!---
